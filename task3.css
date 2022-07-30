@@ -1,0 +1,201 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+body {
+    height: 1000px;
+}
+
+
+
+
+
+
+.img {
+    
+    background-color: black;
+        background-image: url("img/kidsValueProp.png");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-attachment: fixed;
+        margin:0px ;
+        padding: 150px  0px ;
+        height: 400px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .a1{
+        color: white;
+        font-size: 80px;
+     text-align: right;
+     margin: 5px 100px 300px 100px;
+    }
+    
+    .a2{
+        color: white; 
+        font-size: 80px; 
+        text-align: right;
+        margin: -300px 480px 100px 100px;
+    }
+    .a3{
+        color: white; 
+        font-size: 30px; 
+        text-align: right;
+        margin: -80px 100px;
+    }
+    .a4{
+        color: white; 
+        font-size: 30px; 
+        text-align: right;
+        margin: 80px 350px;
+        }
+    /*
+
+.c1 {
+    margin: 1px 200px ;
+    font-size: 40px;
+}
+
+.c2 {
+
+margin: 20px;
+
+    font-size: 40px;
+
+}
+
+.c1 {
+    margin: 0px 40px ;
+}
+
+
+
+.c3{
+    color: blue;
+    margin: 0px 40px;
+}
+
+
+ .t1 {
+    margin: 0px 40px;
+ }
+
+
+
+ 
+.c7{
+
+    margin: -252px 350px;
+    font-size: 30px;
+    
+}
+
+ 
+.c4{
+    color: blue;
+    margin: 22% 26% 0% ;
+
+}
+.c5{
+    color: blue;
+    margin: 2% 26% 0% ;
+
+
+}
+
+
+.c6 {
+    color: blue;
+    margin: 1% 26% 0% ;
+}
+
+
+
+
+.t2 {
+    margin: 0% 26% 0%;
+}
+
+
+
+.c8 {
+
+
+    
+    margin: -240px 600px -283px;
+    font-size: 20px;
+
+}
+
+
+.c9{
+    color: blue;
+    margin: 299px 600px 0%;
+}
+
+.c10{
+    color: blue;
+    margin: 9px 600px 0%;
+}
+
+.c11{
+    color: blue;
+    margin: 13px 600px 0%;
+}
+
+.t3 {
+    
+    margin: 00px 600px 0%;
+}
+
+
+
+.c12{
+    margin: -239px 900px 9px ;
+    font-size: 30px;
+}
+
+.c13 {
+    color: blue;
+    margin: 18px 900px 0% ;
+}
+
+.c14 {
+
+    color: blue;
+    margin: 10px 900px 0% ;
+}
+
+
+
+.c15{
+    color: blue;
+    margin: 12px 900px 0% ;
+}
+
+
+
+
+
+.t4{
+    margin: 0px 900px ;
+}
+
+
+
+
+
+
+
+
+*/
+
+
+
+
